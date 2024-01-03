@@ -1,1 +1,1 @@
-# Timing-Covert-Channel-C-
+In this project I demonstrated how a server uses a timing covert channel to secretly transmit message bits to the clients without being detected. The server create random unique delays for reading bit 0 and 1 respectively, and the client computes the delay to understand what the server has actually read.
